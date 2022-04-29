@@ -1,4 +1,4 @@
 <?
 function getChildren(){
-	return ['anna','nilole','jane','jade'];
+	return ['ivan','john','alex','viktor'];
 }
